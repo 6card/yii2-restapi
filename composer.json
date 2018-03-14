@@ -1,0 +1,21 @@
+{
+    "name": "6card/yii2-restapi",
+    "description": "Extension to create rest api application",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "6card",
+            "email": "vk_31@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "6card\\yii2Restapi\\": ""
+        }
+    }
+}
